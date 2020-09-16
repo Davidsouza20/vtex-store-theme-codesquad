@@ -1,0 +1,17 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text",
+      "shelf"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "CodeSquad",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+  
+}
