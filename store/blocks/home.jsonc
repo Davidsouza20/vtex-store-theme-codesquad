@@ -2,8 +2,7 @@
   "store.home": { 
     "blocks": [
       "rich-text",
-      "shelf",
-      "chatbot"
+      "shelf"
     ]
   },
   "rich-text": { 
